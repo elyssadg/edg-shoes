@@ -1,0 +1,14 @@
+Invoice ID       : T003
+===================================
+Shoes ID         : N001
+User ID          : U002
+Shoes Model      : Sneakers
+Shoes Brand      : Nike
+Shoes Color      : White
+Shoes Price      : 1500000
+Shoes Quantity   : 1
+
+
+Total Price      : 1500000
+Payment          : 1500000
+Change           : 0
