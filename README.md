@@ -4,9 +4,7 @@ EDG Shoes is a desktop application that helps admin to organize the store’s fo
 There are 2 roles in using this application:
 - Admin
   Admin can manage each pair of shoes in the shop inventory, such as add a new pair of shoes, update the shoes data, or delete the shoes.
-  To login as an admin, you can use the credentials below.
-  \nUsername: admin
-  \nPassword: admin123
+  To login as an admin, you can use the credentials "admin" as the username and "admin123" as the password.
 - Customer
   Customers can buy shoes in the shop. They can see their transaction history and print the invoice for each transaction.
   To login as a customer, you can register your account and login with your registered credentials.
